@@ -1,0 +1,7 @@
+{
+  "name": "unifysell/issue-resolver",
+  "require": {
+    "php": "^7.0",
+    "nepda/youtrack-client": "^1.7"
+  }
+}

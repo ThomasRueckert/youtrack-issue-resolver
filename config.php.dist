@@ -1,0 +1,22 @@
+<?php
+/**
+ * unifysell GbR
+ * Zschopauer Str. 159
+ * 09126 Chemnitz
+ * Germany
+ *
+ * Web: https://unifysell.de
+ * Phone: +49 176 270 68 7 68
+ * Mail: info@unifysell.de
+ * USt-IdNr.: DE315094601
+ *
+ * @author Christian Staude <c.staude@nepda.eu>
+ * @author Nepomuk Fraedrich <info@nepda.eu>
+ * @author Thomas Rueckert <t.rueckert@nepda.eu>
+ * @copyright 2018 unifysell - Christian Staude, Nepomuk Frädrich, Thomas Rückert GbR
+ */
+
+return [
+    'url'   => 'https://XXX.myjetbrains.com/youtrack',
+    'token' => 'perm:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+];
